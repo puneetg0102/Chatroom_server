@@ -72,7 +72,7 @@ On doing so, the client is removed from the server.
 
 ## Video Demo
 
-https://user-images.githubusercontent.com/98050969/174826909-ce090684-f7d1-47b6-91b6-0c994555a5e5.mp4
+
 
 ## Learnings
 
